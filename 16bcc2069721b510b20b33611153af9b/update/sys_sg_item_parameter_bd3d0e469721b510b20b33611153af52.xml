@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Asset Task cmdb_ci</name>
+        <parent>7d3d0e469721b510b20b33611153af48</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 13:15:33</sys_created_on>
+        <sys_id>bd3d0e469721b510b20b33611153af52</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Task cmdb_ci</sys_name>
+        <sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_bd3d0e469721b510b20b33611153af52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:15:33</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

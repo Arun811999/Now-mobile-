@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button/>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name/>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>qr_barcode</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Asset Tag</name>
+        <order>1</order>
+        <parameter_type>screen</parameter_type>
+        <placeholder/>
+        <screen display_value="Asset QR Lookup">5b9c4ac7972af110b20b33611153afcf</screen>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 08:50:48</sys_created_on>
+        <sys_id>24ec020b972af110b20b33611153afb2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Tag</sys_name>
+        <sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_24ec020b972af110b20b33611153afb2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 08:50:48</sys_updated_on>
+        <table_name/>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=24ec020b972af110b20b33611153afb2"/>
+</record_update>

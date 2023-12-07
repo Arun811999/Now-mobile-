@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description>Barcode Scanner</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">839c4ac7972af110b20b33611153afcc</icon>
+        <name>Asset QR Lookup</name>
+        <parameter_screen/>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 08:49:37</sys_created_on>
+        <sys_id>5b9c4ac7972af110b20b33611153afcf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset QR Lookup</sys_name>
+        <sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope>
+        <sys_update_name>sys_sg_list_screen_5b9c4ac7972af110b20b33611153afcf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 08:49:37</sys_updated_on>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b9c4ac7972af110b20b33611153afcf"/>
+</record_update>

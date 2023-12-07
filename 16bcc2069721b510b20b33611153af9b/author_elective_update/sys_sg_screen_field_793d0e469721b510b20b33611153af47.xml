@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="DELETE">
+        <data_item_field_name>cmdb_ci</data_item_field_name>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>90</order>
+        <record_id_field/>
+        <screen display_value="Details">b53dca469721b510b20b33611153afd9</screen>
+        <screen_data_item_table>asset_task</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 13:15:33</sys_created_on>
+        <sys_id>793d0e469721b510b20b33611153af47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci</sys_name>
+        <sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope>
+        <sys_update_name>sys_sg_screen_field_793d0e469721b510b20b33611153af47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:15:33</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</application>
+        <file_path/>
+        <instance_id>950c6b6a1b514910e84d2f8dee4bcb62</instance_id>
+        <instance_name>dev123188</instance_name>
+        <name>sys_sg_screen_field_793d0e469721b510b20b33611153af47</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field"><sys_sg_screen_field action="INSERT_OR_UPDATE"><data_item_field_name>cmdb_ci</data_item_field_name><field_name/><hidden>false</hidden><order>90</order><record_id_field/><screen display_value="Details">b53dca469721b510b20b33611153afd9</screen><screen_data_item_table>asset_task</screen_data_item_table><sys_class_name>sys_sg_screen_field</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-29 13:15:33</sys_created_on><sys_id>793d0e469721b510b20b33611153af47</sys_id><sys_mod_count>0</sys_mod_count><sys_name>cmdb_ci</sys_name><sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package><sys_policy/><sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope><sys_update_name>sys_sg_screen_field_793d0e469721b510b20b33611153af47</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-29 13:15:33</sys_updated_on><type>auto</type><value_only>false</value_only></sys_sg_screen_field></record_update>]]></payload>
+        <payload_hash>-129295317</payload_hash>
+        <record_name>cmdb_ci</record_name>
+        <reverted_from/>
+        <source>1abcc2069721b510b20b33611153af9d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-29 13:15:34</sys_created_on>
+        <sys_id>9e3d4e469721b510b20b33611153af2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ae1148c190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-29 13:15:34</sys_updated_on>
+        <type>Screen fields</type>
+        <update_guid>1a3d4e462621b51055db13ec9f41a32e</update_guid>
+        <update_guid_history>1a3d4e462621b51055db13ec9f41a32e:-129295317</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-21 08:46:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_screen_field">sys_sg_screen_field</sys_db_object>
+        <sys_id>2d6499c289b74d7c9a91b695aaf72481</sys_id>
+        <sys_metadata>793d0e469721b510b20b33611153af47</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>cmdb_ci</sys_name>
+        <sys_package display_value="Mobileapp2" source="x_806185_mobileapp">16bcc2069721b510b20b33611153af9b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobileapp2">16bcc2069721b510b20b33611153af9b</sys_scope>
+        <sys_scope_delete display_value="">9249e37ee16347e4aa81f655f9286a90</sys_scope_delete>
+        <sys_update_name>sys_sg_screen_field_793d0e469721b510b20b33611153af47</sys_update_name>
+        <sys_update_version display_value="sys_sg_screen_field_793d0e469721b510b20b33611153af47">9e3d4e469721b510b20b33611153af2e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-21 08:46:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
